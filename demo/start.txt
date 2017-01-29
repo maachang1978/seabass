@@ -1,0 +1,4 @@
+Firefoxの場合は、index.htmlをFireFoxで読み込むことで、実行できます。
+
+GoogleChromeの場合は、ローカルファイルの読み込みがAjaxで行えないので、別途HTTPサーバを立てる必要があります。
+簡単な方法としては、GoogleChromeの拡張機能にある「WebServer for Chrome」を使うとよいでしょう。
